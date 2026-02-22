@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "lastUpdated": "February 2026",
+    "contactEmail": "david.vavinggren@it.uu.se"
+  },
+  "schools": [
+    {
+      "year": 2026,
+      "semester": "Summer",
+      "code": "",
+      "title": "Cambridge ELLIS Unit Summer School on Probabilistic Machine Learning",
+      "url": "https://www.ellis.eng.cam.ac.uk/summer-school/",
+      "description": "Five-day summer school on probabilistic ML, covering advanced probabilistic models, generative models, causality, and accelerating science, with lectures and panel discussions; school expected to take place July 2026 at University of Cambridge."
+    },
+    {
+      "year": 2026,
+      "semester": "Summer",
+      "code": "MLSSR&S",
+      "title": "Machine Learning Summer School on Reliability & Safety",
+      "url": "https://mlss2026.mlinpl.org/",
+      "description": "Five-day summer school on AI safety, reliability, and robustness of ML systems, with invited lectures from leading researchers and a poster session; school expected to take place June - July 2026 at Jagiellonian University, Kraków."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "ML4Mol2026",
+      "title": "Machine Learning for Molecules 2026",
+      "url": "https://aimat.iar.kit.edu/ml4mol2026.php",
+      "description": "Summer school on ML for molecular and materials science: property prediction, ML potentials, graph neural networks, self-driving labs, and generative/LLM-based synthesis prediction, with lectures, tutorials, and poster session; school expected to take place September 2026 at Karlsruhe Institute of Technology (KIT)."
+    }
+  ]
+}

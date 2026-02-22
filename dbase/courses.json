@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "lastUpdated": "February 2026",
+    "contactEmail": "david.vavinggren@it.uu.se"
+  },
+  "courses": [
+    {
+      "year": 2026,
+      "semester": "Spring",
+      "code": "FEM3220",
+      "credits": "10.0",
+      "title": "Matrix Algebra [10.0 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FEM3220?l=en",
+      "description": "Matrix algebra covering eigenvalues/eigenvectors, canonical/Jordan forms, QR/SVD, matrix norms, perturbation theory, positive/stochastic matrices, Lyapunov stability, and matrix equations; course expected to take place March - June 2026 at KTH."
+    },
+    {
+      "year": 2026,
+      "semester": "Spring",
+      "code": "FSF3847",
+      "credits": "6.0",
+      "title": "Convex Optimization with Engineering Applications [6.0 credits]",
+      "url": "https://www.kth.se/kurs-pm/FSF3847/FSF384720261-10860",
+      "description": "Convex sets/functions, LP/QP/geometric/SDP, duality, interior-point and decomposition methods, with applications in estimation, data fitting, control, and communications; course expected to take place March - May 2026 at KTH."
+    },
+    {
+      "year": 2026,
+      "semester": "Spring",
+      "code": "",
+      "credits": "5.0",
+      "title": "Great Ideas in Learning and Control [5.0 credits]",
+      "url": "https://d3c-group.github.io/courses/greatideas/",
+      "description": "Explores foundational 20th-century concepts in ML and control theory: information theory, dynamical systems, extremum problems, feedback, statistical learning, and dynamic programming; course expected to take place February - March 2026 at Uppsala University."
+    },
+    {
+      "year": 2026,
+      "semester": "Spring",
+      "code": "",
+      "credits": "10.0",
+      "title": "Context Engineering for Football [10.0 credits]",
+      "url": "https://twelve.football/courses/46Dw3eQyVSD7OcsTlKcKbX",
+      "description": "Explores techniques for obtaining reliable output from LLMs and communicating data accessibly, based on building Twelve Earpiece; covers transformer architectures and their implications for LLM usage in software applications, with hands-on app development as exam; course expected to start February 23rd 2026 and take place at Uppsala University."
+    }
+  ]
+}
+
+

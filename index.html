@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PhD Course Helper </title>
+    <style>
+        :root {
+            --uu-red: #990000;
+            --uu-gray: #E6E6E6;
+            --text-black: #1a1a1a;
+            --bg-white: #ffffff;
+        }
+
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+            line-height: 1.6; color: var(--text-black); max-width: 700px; margin: 60px auto; padding: 0 20px; background-color: var(--bg-white);
+        }
+
+        .page-header { border-bottom: 4px solid var(--uu-red); margin-bottom: 20px; padding-bottom: 15px; }
+        .header-content { display: flex; justify-content: space-between; align-items: center; }
+        h1 { font-weight: 700; font-size: 1.8rem; margin: 0; }
+        .uu-logo { height: 70px; width: auto; }
+
+        .tabs { display: flex; gap: 10px; margin-bottom: 30px; border-bottom: 1px solid var(--uu-gray); padding-bottom: 10px; }
+        .tab-btn { 
+            background: none; border: none; padding: 8px 16px; cursor: pointer; font-weight: 600; 
+            color: #666; border-radius: 4px; transition: all 0.2s;
+        }
+        .tab-btn.active { background-color: var(--uu-red); color: white; }
+        .tab-btn:hover:not(.active) { background-color: var(--uu-gray); }
+
+        .semester-section { margin-top: 40px; }
+        .semester-title { 
+            font-size: 1rem; font-weight: 600; text-transform: uppercase; color: #555; 
+            background-color: var(--uu-gray); padding: 4px 12px; display: inline-block; margin-bottom: 15px;
+        }
+        .item-card { margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid var(--uu-gray); }
+        .item-card:last-child { border-bottom: none; }
+        .item-code { font-family: monospace; font-weight: 600; color: var(--uu-red); margin-right: 10px; }
+        .item-title { font-weight: 600; font-size: 1.1rem; color: var(--text-black); text-decoration: none; }
+        a.item-title { color: var(--uu-red); }
+        a.item-title:hover { text-decoration: underline; }
+        .description { display: block; font-size: 0.95rem; color: #444; margin-top: 6px; }
+
+        footer { margin-top: 80px; padding-top: 20px; border-top: 1px solid var(--uu-gray); font-size: 0.85rem; color: #666; text-align: center; }
+        .footer-link { color: var(--uu-red); text-decoration: none; }
+    </style>
+</head>
+<body>
+
+    <header class="page-header">
+        <div class="header-content">
+            <h1 id="page-title">PhD Courses & Schools</h1>
+            <img src="uu-logo.png" alt="UU Logo" class="uu-logo">
+        </div>
+    </header>
+
+    <nav class="tabs">
+        <button class="tab-btn active" onclick="switchTab('courses')">Courses</button>
+        <button class="tab-btn" onclick="switchTab('schools')">Schools</button>
+    </nav>
+
+    <main id="content-list">Loading...</main>
+
+    <footer>
+        <div id="last-updated">...</div>
+        <div>Contact: <a href="#" id="contact-email" class="footer-link">...</a></div>
+        <div style="margin-top:10px;">&copy; 2026 &middot; SysCon &middot; Dept. Information Technology &middot; UU</div>
+    </footer>
+
+    <script>
+        let currentType = 'courses';
+
+        async function renderData(type) {
+            try {
+                const response = await fetch(`./dbase/${type}.json?t=${new Date().getTime()}`);                const data = await response.json();
+                
+                const items = data[type];
+                const meta = data.metadata;
+
+                document.getElementById('last-updated').innerText = `Last updated: ${meta.lastUpdated}`;
+                const emailLink = document.getElementById('contact-email');
+                emailLink.href = `mailto:${meta.contactEmail}`;
+                emailLink.innerText = meta.contactEmail;
+
+                items.sort((a, b) => {
+                    if (b.year !== a.year) return b.year - a.year;
+
+                    const weights = { 
+                        "Winter": 4, 
+                        "Fall": 3, 
+                        "Summer": 2, 
+                        "Spring": 1 
+                    };
+
+                    const weightA = weights[a.semester] || 0;
+                    const weightB = weights[b.semester] || 0;
+                    
+                    return weightB - weightA;
+                });
+
+                const groups = items.reduce((acc, item) => {
+                    const key = `${item.semester} ${item.year}`;
+                    if (!acc[key]) acc[key] = [];
+                    acc[key].push(item);
+                    return acc;
+                }, {});
+
+                const container = document.getElementById('content-list');
+                container.innerHTML = Object.keys(groups).map(semesterKey => `
+                    <section class="semester-section">
+                        <div class="semester-title">${semesterKey}</div>
+                        ${groups[semesterKey].map(i => `
+                            <div class="item-card">
+                                <div>
+                                    ${i.code ? `<span class="item-code">${i.code}</span>` : ''}
+                                    ${i.url 
+                                        ? `<a href="${i.url}" class="item-title" target="_blank">${i.title}</a>` 
+                                        : `<span class="item-title">${i.title}</span>`
+                                    }
+                                </div>
+                                <span class="description">${i.description}</span>
+                            </div>
+                        `).join('')}
+                    </section>
+                `).join('');
+
+            } catch (err) {
+                document.getElementById('content-list').innerHTML = `<p style="color:red">Error: ${err.message}</p>`;
+            }
+        }
+
+        function switchTab(type) {
+            currentType = type;
+            document.querySelectorAll('.tab-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.innerText.toLowerCase().includes(type));
+            });
+            renderData(type);
+        }
+
+        renderData('courses');
+    </script>
+</body>
+</html>

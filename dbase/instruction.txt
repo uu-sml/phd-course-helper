@@ -1,0 +1,19 @@
+i want you to add this {school/course} in {school/course}.json on the same 
+format as the others, that is
+{
+      "year": 
+      "semester": {SPRING/SUMMER/FALL/WINTER}
+      "code": 
+      "credits":
+      "title": {title [x credits]}
+      "url": 
+      "description": 
+}.
+if you find no credit information, don't add this to the title.if you dont find 
+enough description, feel free to elaborate a little on the theme of the course
+to make the description more appealing, but keep it rather brief.
+also, if you can find when the course is expected to be given, add this to the 
+description as well. i want the description on the following format (if all info
+is available):
+{short summary of course content}; course expected to take place 
+{Month - Month year (no exact days)} at {university}.
