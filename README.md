@@ -1,6 +1,6 @@
 # phdcourses
 
-Course log for SysCon PhD students.
+Course helper for SysCon PhD students.
 
 To run locally, clone the repo and run 
 
