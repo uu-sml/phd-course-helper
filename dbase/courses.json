@@ -37,8 +37,26 @@
       "code": "",
       "credits": "10.0",
       "title": "Context Engineering for Football [10.0 credits]",
-      "url": "https://twelve.football/courses/46Dw3eQyVSD7OcsTlKcKbX",
+      "url": "https://twelve.football/cour6ses/46Dw3eQyVSD7OcsTlKcKbX",
       "description": "Explores techniques for obtaining reliable output from LLMs and communicating data accessibly, based on building Twelve Earpiece; covers transformer architectures and their implications for LLM usage in software applications, with hands-on app development as exam; course expected to start February 23rd 2026 and take place at Uppsala University."
+    },
+    {
+      "year": 2027,
+      "semester": "Spring",
+      "code": "FEL3210",
+      "credits": "8.0",
+      "title": "Multivariable Control [8.0 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FEL3210?l=en",
+      "description": "Introduction to robust linear multivariable control, covering feedback limitations, stability/performance under uncertainty, H2/H∞ methods, μ-synthesis, loop shaping, and LMIs; course expected to be given (for the last time (ever!)) in P4 of 2027 at KTH."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "FSF3580",
+      "credits": "7.5",
+      "title": "Numerical Linear Algebra [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FSF3580?l=en",
+      "description": "Numerical linear algebra methods for large-scale eigenvalue problems, linear systems, matrix functions and equations, with convergence theory, implementation aspects, and a project component; course expected to be given sometime in the fall of 2026 at KTH."
     }
   ]
 }
