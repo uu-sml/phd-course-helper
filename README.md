@@ -9,3 +9,5 @@ To run locally, clone the repo and run
 to start hosting. Then visit
 
 `http://localhost:8000`.
+
+If anything is missing, wrong or inclomplete, please do no not hesitate to contact [the current maintainer](mailto:david.vavinggren@it.uu.se)!
