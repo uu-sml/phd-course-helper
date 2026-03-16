@@ -11,7 +11,7 @@
       "credits": "10.0",
       "title": "Matrix Algebra [10.0 credits]",
       "url": "https://www.kth.se/student/kurser/kurs/FEM3220?l=en",
-      "description": "Matrix algebra covering eigenvalues/eigenvectors, canonical/Jordan forms, QR/SVD, matrix norms, perturbation theory, positive/stochastic matrices, Lyapunov stability, and matrix equations; course expected to take place March - June 2026 at KTH."
+      "description": "Matrix algebra covering eigenvalues/eigenvectors, canonical/Jordan forms, QR/SVD, matrix norms, perturbation theory, positive/stochastic matrices, Lyapunov stability, and matrix equations; course expected to be given March - June 2026 at KTH."
     },
     {
       "year": 2026,
@@ -20,7 +20,7 @@
       "credits": "6.0",
       "title": "Convex Optimization with Engineering Applications [6.0 credits]",
       "url": "https://www.kth.se/kurs-pm/FSF3847/FSF384720261-10860",
-      "description": "Convex sets/functions, LP/QP/geometric/SDP, duality, interior-point and decomposition methods, with applications in estimation, data fitting, control, and communications; course expected to take place March - May 2026 at KTH."
+      "description": "Convex sets/functions, LP/QP/geometric/SDP, duality, interior-point and decomposition methods, with applications in estimation, data fitting, control, and communications; course expected to be given March - May 2026 at KTH."
     },
     {
       "year": 2026,
@@ -29,7 +29,7 @@
       "credits": "5.0",
       "title": "Great Ideas in Learning and Control [5.0 credits]",
       "url": "https://d3c-group.github.io/courses/greatideas/",
-      "description": "Explores foundational 20th-century concepts in ML and control theory: information theory, dynamical systems, extremum problems, feedback, statistical learning, and dynamic programming; course expected to take place February - March 2026 at Uppsala University."
+      "description": "Explores foundational 20th-century concepts in ML and control theory: information theory, dynamical systems, extremum problems, feedback, statistical learning, and dynamic programming; course expected to be given February - March 2026 at Uppsala University."
     },
     {
       "year": 2026,
@@ -38,7 +38,7 @@
       "credits": "10.0",
       "title": "Context Engineering for Football [10.0 credits]",
       "url": "https://twelve.football/courses/46Dw3eQyVSD7OcsTlKcKbX",
-      "description": "Explores techniques for obtaining reliable output from LLMs and communicating data accessibly, based on building Twelve Earpiece; covers transformer architectures and their implications for LLM usage in software applications, with hands-on app development as exam; course expected to start February 23rd 2026 and take place at Uppsala University."
+      "description": "Explores techniques for obtaining reliable output from LLMs and communicating data accessibly, based on building Twelve Earpiece; covers transformer architectures and their implications for LLM usage in software applications, with hands-on app development as exam; course expected to start February 23rd 2026 at Uppsala University."
     },
     {
       "year": 2027,
@@ -57,6 +57,15 @@
       "title": "Numerical Linear Algebra [7.5 credits]",
       "url": "https://www.kth.se/student/kurser/kurs/FSF3580?l=en",
       "description": "Numerical linear algebra methods for large-scale eigenvalue problems, linear systems, matrix functions and equations, with convergence theory, implementation aspects, and a project component; course expected to be given sometime in the fall of 2026 at KTH."
+    },
+    {
+      "year": 2027,
+      "semester": "Fall",
+      "code": "FEP3301",
+      "credits": "8.0",
+      "title": "Computational Game Theory [8.0 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FEP3301?l=en",
+      "description": "Computational game theory covering Nash and Bayesian equilibria, stochastic and evolutionary games, coalition games, and mechanism design, with focus on formal modeling, analysis, and problem solving; course expected to be given sometime in the fall of 2027 at KTH."
     }
   ]
 }
