@@ -27,6 +27,14 @@
       "title": "Machine Learning for Molecules 2026",
       "url": "https://aimat.iar.kit.edu/ml4mol2026.php",
       "description": "Summer school on ML for molecular and materials science: property prediction, ML potentials, graph neural networks, self-driving labs, and generative/LLM-based synthesis prediction, with lectures, tutorials, and poster session; school expected to take place September 2026 at Karlsruhe Institute of Technology (KIT)."
+    },
+    {
+      "year": 2026,
+      "semester": "Summer",
+      "code": "ProbAI2026",
+      "title": "ProbAI School 2026",
+      "url": "https://probai.school/",
+      "description": "School in probabilistic machine learning, covering probabilistic modeling, variational inference, deep generative models, latent variable methods, normalizing flows, neural ODEs, and probabilistic programming; school expected to take place August 2026 in Vilnius, Lithuania."
     }
   ]
 }
