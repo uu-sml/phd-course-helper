@@ -22,6 +22,14 @@
     },
     {
       "year": 2026,
+      "semester": "Summer",
+      "code": "ACDL2026",
+      "title": "9th Advanced Course on Data Science & Machine Learning – ACDL 2026, from AI Agents to Agentic AI",
+      "url": "https://www.summerschoolsineurope.eu/course/9th-advanced-course-on-data-science-machine-learning-acdl-2026-from-ai-agents-to-agentic-ai/",
+      "description": "Five-day full-immersion course on AI agents, agentic AI, deep learning, data science, and generative AI, with lectures delivered by world-renowned experts; school expected to take place June 2026 in Castiglione della Pescaia, Tuscany, Italy."
+    },
+    {
+      "year": 2026,
       "semester": "Fall",
       "code": "ML4Mol2026",
       "title": "Machine Learning for Molecules 2026",
