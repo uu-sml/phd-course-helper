@@ -50,6 +50,15 @@
       "description": "Network science covering basic concepts including centrality measures, network properties, network models, propagation dynamics, and network mining tasks (community detection, link prediction, position/role detection), with practical activities using R and network analysis software, plus student-selected advanced topics such as multilayer networks and temporal networks; course expected to take place May - June 2026 at Uppsala University."
     },
     {
+      "year": 2026,
+      "semester": "Spring",
+      "code": "",
+      "credits": "7.5",
+      "title": "Spectral Graph Theory [7.5 credits]",
+      "url": "https://www.uu.se/en/department/mathematics/study/phd-studies/phd-courses",
+      "description": "Course on spectral graph theory covering eigenvalues and eigenvectors of adjacency and Laplacian matrices, with applications to random walks, graph expansion, conductance, and energy minimization of Hamiltonian systems. Includes recent breakthroughs in community detection using non-backtracking matrices. Course expected to take place April 2026 at Uppsala University. Contact responsible fiona.skerman@math.uu.se for more information."
+    },
+    {
       "year": 2027,
       "semester": "Spring",
       "code": "FEL3210",
