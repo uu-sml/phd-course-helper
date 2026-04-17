@@ -41,6 +41,15 @@
       "description": "Explores techniques for obtaining reliable output from LLMs and communicating data accessibly, based on building Twelve Earpiece; covers transformer architectures and their implications for LLM usage in software applications, with hands-on app development as exam; course expected to start February 23rd 2026 at Uppsala University."
     },
     {
+      "year": 2026,
+      "semester": "Spring",
+      "code": "",
+      "credits": "3.0",
+      "title": "Introduction to Network Science [3.0 credits]",
+      "url": "https://uuinfolab.github.io/courses/networkscience_phd2026",
+      "description": "Network science covering basic concepts including centrality measures, network properties, network models, propagation dynamics, and network mining tasks (community detection, link prediction, position/role detection), with practical activities using R and network analysis software, plus student-selected advanced topics such as multilayer networks and temporal networks; course expected to take place May - June 2026 at Uppsala University."
+    },
+    {
       "year": 2027,
       "semester": "Spring",
       "code": "FEL3210",
