@@ -43,6 +43,14 @@
       "title": "ProbAI School 2026",
       "url": "https://probai.school/",
       "description": "School in probabilistic machine learning, covering probabilistic modeling, variational inference, deep generative models, latent variable methods, normalizing flows, neural ODEs, and probabilistic programming; school expected to take place August 2026 in Vilnius, Lithuania."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "MLSS2026",
+      "title": "Machine Learning Summer School 2026",
+      "url": "https://mlss2026.is.tuebingen.mpg.de/",
+      "description": "The 50th edition of the Machine Learning Summer School featuring intensive lectures, tutorials, and poster sessions by leading researchers in machine learning; school expected to take place August 31 – September 11, 2026 at Max Planck Institute for Intelligent Systems, Tübingen, Germany."
     }
   ]
 }
