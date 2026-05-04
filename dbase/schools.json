@@ -30,6 +30,14 @@
     },
     {
       "year": 2026,
+      "semester": "Summer",
+      "code": "LTSS2026",
+      "title": "Learning Theory Summer School (LTSS) Copenhagen 2026",
+      "url": "https://ltsscopenhagen.github.io/",
+      "description": "Four-day summer school (with optional two-day workshop) on modern learning theory and responsible machine learning, covering generalization, optimization for ML, online and reinforcement learning, privacy, and robustness, aimed at PhD and master students, early-career researchers, and industry professionals; school expected to take place June 22-25, 2026 (with workshop June 26-27) at University of Copenhagen, Denmark."
+    },
+    {
+      "year": 2026,
       "semester": "Fall",
       "code": "ML4Mol2026",
       "title": "Machine Learning for Molecules 2026",
