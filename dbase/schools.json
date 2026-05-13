@@ -59,6 +59,14 @@
       "title": "Machine Learning Summer School 2026",
       "url": "https://mlss2026.is.tuebingen.mpg.de/",
       "description": "The 50th edition of the Machine Learning Summer School featuring intensive lectures, tutorials, and poster sessions by leading researchers in machine learning; school expected to take place August 31 – September 11, 2026 at Max Planck Institute for Intelligent Systems, Tübingen, Germany."
+    },
+    {
+      "year": 2026,
+      "semester": "Summer",
+      "code": "ELLISSS2026",
+      "title": "ELLIS Summer School 2026: AI for Research",
+      "url": "https://www.ellisinstitute.fi/ellis-summer-school-2026",
+      "description": "Five-day summer school on AI for scientific research, covering AI-assisted research workflows and Bayesian models of scientist cognition, trustworthy AI with conformal prediction and learning under uncertainty, safe scientific agents, generative models, and physics-informed AI applied across chemistry, physics, biology, and health, complemented by a multi-day hackathon and industry perspectives on AI for societal impact; school expected to take place August 2026 at Aalto University, Finland."
     }
   ]
 }
