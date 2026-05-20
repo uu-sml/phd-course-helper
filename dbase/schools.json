@@ -67,6 +67,14 @@
       "title": "ELLIS Summer School 2026: AI for Research",
       "url": "https://www.ellisinstitute.fi/ellis-summer-school-2026",
       "description": "Five-day summer school on AI for scientific research, covering AI-assisted research workflows and Bayesian models of scientist cognition, trustworthy AI with conformal prediction and learning under uncertainty, safe scientific agents, generative models, and physics-informed AI applied across chemistry, physics, biology, and health, complemented by a multi-day hackathon and industry perspectives on AI for societal impact; school expected to take place August 2026 at Aalto University, Finland."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "",
+      "title": "KCDS Summer School 2026 on Graph Neural Networks",
+      "url": "https://www.kcds.kit.edu/index.php/event/61333#calendar_top",
+      "description": "Five-day summer school on Graph Neural Networks, covering both fundamental concepts and practical applications through lectures, interactive sessions, and hands-on tutorials on the mathematical foundations and real-world use cases of graph-based machine learning, complemented by a poster session, networking dinner, and social event; school expected to take place September 2026 at Karlsruhe Institute of Technology (KIT)."
     }
   ]
 }
