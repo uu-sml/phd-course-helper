@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "May 2026",
+    "lastUpdated": "August 2026",
     "contactEmail": "david.vavinggren@it.uu.se"
   },
   "courses": [
@@ -75,6 +75,15 @@
       "title": "Numerical Linear Algebra [7.5 credits]",
       "url": "https://www.kth.se/student/kurser/kurs/FSF3580?l=en",
       "description": "Numerical linear algebra methods for large-scale eigenvalue problems, linear systems, matrix functions and equations, with convergence theory, implementation aspects, and a project component; course expected to be given sometime in the fall of 2026 at KTH."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "MM7054",
+      "credits": "7.5",
+      "title": "Nonlinear Algebra [7.5 credits]",
+      "url": "https://www.su.se/english/education/course-catalogue/mm/mm7054",
+      "description": "Master/PhD course on algebraic geometry for real-world problems and symbolic/numerical algorithms for solving polynomial systems, with hands-on investigations (proofs and coding) of algebraic optimization and inverse problems from robotics, computer vision, and deep learning; course expected to take place September 2026 - January 2027 at Stockholm University."
     },
     {
       "year": 2027,
