@@ -93,6 +93,42 @@
       "title": "Computational Game Theory [8.0 credits]",
       "url": "https://www.kth.se/student/kurser/kurs/FEP3301?l=en",
       "description": "Computational game theory covering Nash and Bayesian equilibria, stochastic and evolutionary games, coalition games, and mechanism design, with focus on formalizing, analyzing, and solving problems; course expected to be given sometime in the fall of 2027 at KTH."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "1TD052",
+      "credits": "5.0",
+      "title": "Applied Computational Fluid Dynamics [5.0 credits]",
+      "url": "https://uppsala.instructure.com/courses/119964",
+      "description": "Project-driven introduction to computational fluid dynamics with an emphasis on numerical analysis and finite element methods, deriving and implementing the algorithms in Python; covers linear advection, time integration, CFL conditions, stability and stabilization, nonlinear scalar conservation laws, shocks and entropy conditions, high-resolution schemes, and the compressible Euler equations, with students building their own solver using the FEniCS framework; course expected to take place September 2026 - January 2027 at Uppsala University."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "1MA344 / 1MS051",
+      "credits": "5.0",
+      "title": "Probabilistic Method [5.0 credits]",
+      "url": "https://www.uu.se/en/staff/faculty/science-and-technology/education-and-teaching/doctoral-studies/doctoral-student/courses/faculty-courses/2026-probabilistic-method",
+      "description": "Faculty-wide course on the probabilistic method and the analysis of random discrete structures; covers random graph models, first and second moment methods, thresholds and phase transitions, analysis of random algorithms, the Lovász Local Lemma, correlation and Janson inequalities, and concentration and entropy methods, taught at the blackboard with student presentations; course expected to take place September - December 2026 at Uppsala University. Contact fiona.skerman@math.uu.se to be added to the course page."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "",
+      "credits": "5.0",
+      "title": "Theory of Orthogonal Polynomials and Applications [5.0 credits]",
+      "url": "https://www.uu.se/en/centre/interdisciplinary-mathematics/phd-studies-at-cim/phd-courses",
+      "description": "Interdisciplinary CIM course on the modern theory of orthogonal polynomials on the real line and the unit circle; covers recurrence coefficients, Jacobi and CMV matrices, the Christoffel–Darboux kernel, Herglotz/Carathéodory/Schur functions, classical families and asymptotics (Szegő's and Rakhmanov's theorems), with applications in numerical analysis, physics, and signal processing; course expected to take place November - December 2026 at Uppsala University. Contact kozhan@math.uu.se to register."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "1FA253",
+      "credits": "5.0",
+      "title": "Fluid Mechanics [5.0 credits]",
+      "url": "https://www.uu.se/en/study/syllabus?query=32d83040-b4e3-11f0-bd83-743a3e5145ea",
+      "description": "Introduction to fluid (continuum) mechanics for master and PhD students in physics or engineering; covers basic equations for ideal and viscous flows, potential and vortex flows, flows around cylinders and spheres, two-dimensional wing theory, boundary layers, dimensional analysis, turbulence, surface and internal waves, and flow stability, with lectures, problem classes, and computer labs; course expected to take place September - December 2026 at Uppsala University."
     }
   ]
 }
