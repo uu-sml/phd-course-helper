@@ -129,6 +129,15 @@
       "title": "Fluid Mechanics [5.0 credits]",
       "url": "https://www.uu.se/en/study/syllabus?query=32d83040-b4e3-11f0-bd83-743a3e5145ea",
       "description": "Introduction to fluid (continuum) mechanics for master and PhD students in physics or engineering; covers basic equations for ideal and viscous flows, potential and vortex flows, flows around cylinders and spheres, two-dimensional wing theory, boundary layers, dimensional analysis, turbulence, surface and internal waves, and flow stability, with lectures, problem classes, and computer labs; course expected to take place September - December 2026 at Uppsala University."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "",
+      "credits": "3.0",
+      "title": "Brain Inspired Learning: A Dynamical Systems Perspective [3.0 credits]",
+      "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8910193",
+      "description": "Interdisciplinary CIM course studying how brain-inspired computing architectures and learning algorithms can be understood through nonlinear dynamics, stability theory, and state-space representations, integrating signal processing, machine learning, control theory, dynamical systems theory, and neuromorphic computing; covers fixed points, stability analysis, phase portraits, limit cycles, bifurcations, integrate-and-fire and Hodgkin–Huxley neurons, recurrent and spiking neural networks, attractor dynamics, Hopfield networks, Hebbian learning, spike-timing-dependent plasticity, neural ODEs, reservoir computing, and deep state-space models, followed by a participant seminar series; course expected to take place October - December 2026 at Uppsala University."
     }
   ]
 }
