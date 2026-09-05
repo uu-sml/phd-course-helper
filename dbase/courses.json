@@ -138,6 +138,24 @@
       "title": "Brain Inspired Learning: A Dynamical Systems Perspective [3.0 credits]",
       "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8910193",
       "description": "Interdisciplinary CIM course studying how brain-inspired computing architectures and learning algorithms can be understood through nonlinear dynamics, stability theory, and state-space representations, integrating signal processing, machine learning, control theory, dynamical systems theory, and neuromorphic computing; covers fixed points, stability analysis, phase portraits, limit cycles, bifurcations, integrate-and-fire and Hodgkin–Huxley neurons, recurrent and spiking neural networks, attractor dynamics, Hopfield networks, Hebbian learning, spike-timing-dependent plasticity, neural ODEs, reservoir computing, and deep state-space models, followed by a participant seminar series; course expected to take place October - December 2026 at Uppsala University."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "",
+      "credits": "5.0",
+      "title": "Statistics and Data Science Using Agentic AI [5.0 credits]",
+      "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8910532",
+      "description": "Practical, hands-on course on using agentic AI tools (such as Claude and OpenAI's Codex) for faster and more rigorous data analysis across the natural sciences and engineering, covering effective prompting, Skills and instruction files for repeatable results, how agentic AI works and its limits, context engineering and test agents for correctness and reproducibility, and reproducibility, open science, and the ethics of AI use in publications; each participant builds their own subject-specific statistics and data science agent in Python or R; course expected to take place October - November 2026 at Uppsala University."
+    },
+    {
+      "year": 2027,
+      "semester": "Spring",
+      "code": "",
+      "credits": "7.0",
+      "title": "Learning Theory and High-Dimensional Statistics [7 + 3 credits]",
+      "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8910322",
+      "description": "Rigorous introduction to the mathematical foundations of learning algorithms, in two parts: fundamental tools for high dimensionality in probability and statistics (tail and concentration bounds, sub-Gaussian and sub-exponential variables, uniform laws of large numbers, Rademacher complexity, VC dimension, metric entropy and chaining) and their application to learning theory (empirical risk minimization, fixed- and random-design analysis, least squares and ridge regression, Lasso and sparse methods, reproducing kernel Hilbert spaces, and approximation/estimation error in neural networks); the optional extra 3 credits are awarded for a final project; course expected to take place January - March 2027 at Uppsala University."
     }
   ]
 }
