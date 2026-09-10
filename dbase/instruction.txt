@@ -1,19 +1,35 @@
-i want you to add this {school/course} in {school/course}.json on the same 
+i want you to add this {school/course} in {school/course}.json on the same
 format as the others, that is
 {
-      "year": 
+      "year":
       "semester": {SPRING/SUMMER/FALL/WINTER}
-      "code": 
+      "code":
       "credits":
       "title": {title [x credits]}
-      "url": 
-      "description": 
+      "url":
+      "description":
+      "when":
+      "where":
+      "contact":
 }.
-if you find no credit information, don't add this to the title.if you dont find 
+if you find no credit information, don't add this to the title. if you dont find
 enough description, feel free to elaborate a little on the theme of the course
 to make the description more appealing, but keep it rather brief.
-also, if you can find when the course is expected to be given, add this to the 
-description as well. i want the description on the following format (if all info
-is available):
-{short summary of course content}; course expected to take place 
-{Month - Month year (no exact days)} at {university}.
+
+the "description" field should be ONLY a short summary of the course content
+(no dates or location - those now live in their own fields).
+
+the "when" field is when the course is expected to be given, on the format
+{Month - Month year} (no exact days unless that is the only info available, e.g.
+a single start date). if you cannot find this, omit the field.
+
+the "where" field is where the course is given, typically the university (and
+city if relevant). if you cannot find this, omit the field.
+
+the "contact" field is who to contact or where/how to sign up, if that info is
+necessary or included (e.g. a course responsible, a registration email, or a
+note to register via the linked page). if there is no such info, omit the field.
+
+all three of "when", "where" and "contact" are optional - only include a field
+if you have the information for it. the site renders each present field on its
+own line with a bold label (Description:, When?, Where?, Sign-up / contact:).

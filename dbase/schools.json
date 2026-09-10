@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "May 2026",
+    "lastUpdated": "September 2026",
     "contactEmail": "david.vavinggren@it.uu.se"
   },
   "schools": [
@@ -10,7 +10,9 @@
       "code": "",
       "title": "Cambridge ELLIS Unit Summer School on Probabilistic Machine Learning",
       "url": "https://www.ellis.eng.cam.ac.uk/summer-school/",
-      "description": "Five-day summer school on probabilistic ML, covering advanced probabilistic models, generative models, causality, and accelerating science, with lectures and panel discussions; school expected to take place July 2026 at University of Cambridge."
+      "description": "Five-day summer school on probabilistic ML, covering advanced probabilistic models, generative models, causality, and accelerating science, with lectures and panel discussions.",
+      "when": "July 2026",
+      "where": "University of Cambridge"
     },
     {
       "year": 2026,
@@ -18,7 +20,9 @@
       "code": "MLSSR&S",
       "title": "Machine Learning Summer School on Reliability & Safety",
       "url": "https://mlss2026.mlinpl.org/",
-      "description": "Five-day summer school on AI safety, reliability, and robustness of ML systems, with invited lectures from leading researchers and a poster session; school expected to take place June - July 2026 at Jagiellonian University, Kraków."
+      "description": "Five-day summer school on AI safety, reliability, and robustness of ML systems, with invited lectures from leading researchers and a poster session.",
+      "when": "June - July 2026",
+      "where": "Jagiellonian University, Kraków"
     },
     {
       "year": 2026,
@@ -26,7 +30,9 @@
       "code": "ACDL2026",
       "title": "9th Advanced Course on Data Science & Machine Learning – ACDL 2026, from AI Agents to Agentic AI",
       "url": "https://www.summerschoolsineurope.eu/course/9th-advanced-course-on-data-science-machine-learning-acdl-2026-from-ai-agents-to-agentic-ai/",
-      "description": "Five-day full-immersion course on AI agents, agentic AI, deep learning, data science, and generative AI, with lectures delivered by world-renowned experts; school expected to take place June 2026 in Castiglione della Pescaia, Tuscany, Italy."
+      "description": "Five-day full-immersion course on AI agents, agentic AI, deep learning, data science, and generative AI, with lectures delivered by world-renowned experts.",
+      "when": "June 2026",
+      "where": "Castiglione della Pescaia, Tuscany, Italy"
     },
     {
       "year": 2026,
@@ -34,7 +40,9 @@
       "code": "LTSS2026",
       "title": "Learning Theory Summer School (LTSS) Copenhagen 2026",
       "url": "https://ltsscopenhagen.github.io/",
-      "description": "Four-day summer school (with optional two-day workshop) on modern learning theory and responsible machine learning, covering generalization, optimization for ML, online and reinforcement learning, privacy, and robustness, aimed at PhD and master students, early-career researchers, and industry professionals; school expected to take place June 22-25, 2026 (with workshop June 26-27) at University of Copenhagen, Denmark."
+      "description": "Four-day summer school (with optional two-day workshop) on modern learning theory and responsible machine learning, covering generalization, optimization for ML, online and reinforcement learning, privacy, and robustness, aimed at PhD and master students, early-career researchers, and industry professionals.",
+      "when": "June 22-25, 2026 (with workshop June 26-27)",
+      "where": "University of Copenhagen, Denmark"
     },
     {
       "year": 2026,
@@ -42,7 +50,9 @@
       "code": "ML4Mol2026",
       "title": "Machine Learning for Molecules 2026",
       "url": "https://aimat.iar.kit.edu/ml4mol2026.php",
-      "description": "Summer school on ML for molecular and materials science: property prediction, ML potentials, graph neural networks, self-driving labs, and generative/LLM-based synthesis prediction, with lectures, tutorials, and poster session; school expected to take place September 2026 at Karlsruhe Institute of Technology (KIT)."
+      "description": "Summer school on ML for molecular and materials science: property prediction, ML potentials, graph neural networks, self-driving labs, and generative/LLM-based synthesis prediction, with lectures, tutorials, and poster session.",
+      "when": "September 2026",
+      "where": "Karlsruhe Institute of Technology (KIT)"
     },
     {
       "year": 2026,
@@ -50,7 +60,9 @@
       "code": "ProbAI2026",
       "title": "ProbAI School 2026",
       "url": "https://probai.school/",
-      "description": "School in probabilistic machine learning, covering probabilistic modeling, variational inference, deep generative models, latent variable methods, normalizing flows, neural ODEs, and probabilistic programming; school expected to take place August 2026 in Vilnius, Lithuania."
+      "description": "School in probabilistic machine learning, covering probabilistic modeling, variational inference, deep generative models, latent variable methods, normalizing flows, neural ODEs, and probabilistic programming.",
+      "when": "August 2026",
+      "where": "Vilnius, Lithuania"
     },
     {
       "year": 2026,
@@ -58,7 +70,9 @@
       "code": "MLSS2026",
       "title": "Machine Learning Summer School 2026",
       "url": "https://mlss2026.is.tuebingen.mpg.de/",
-      "description": "The 50th edition of the Machine Learning Summer School featuring intensive lectures, tutorials, and poster sessions by leading researchers in machine learning; school expected to take place August 31 – September 11, 2026 at Max Planck Institute for Intelligent Systems, Tübingen, Germany."
+      "description": "The 50th edition of the Machine Learning Summer School featuring intensive lectures, tutorials, and poster sessions by leading researchers in machine learning.",
+      "when": "August 31 – September 11, 2026",
+      "where": "Max Planck Institute for Intelligent Systems, Tübingen, Germany"
     },
     {
       "year": 2026,
@@ -66,7 +80,9 @@
       "code": "ELLISSS2026",
       "title": "ELLIS Summer School 2026: AI for Research",
       "url": "https://www.ellisinstitute.fi/ellis-summer-school-2026",
-      "description": "Five-day summer school on AI for scientific research, covering AI-assisted research workflows and Bayesian models of scientist cognition, trustworthy AI with conformal prediction and learning under uncertainty, safe scientific agents, generative models, and physics-informed AI applied across chemistry, physics, biology, and health, complemented by a multi-day hackathon and industry perspectives on AI for societal impact; school expected to take place August 2026 at Aalto University, Finland."
+      "description": "Five-day summer school on AI for scientific research, covering AI-assisted research workflows and Bayesian models of scientist cognition, trustworthy AI with conformal prediction and learning under uncertainty, safe scientific agents, generative models, and physics-informed AI applied across chemistry, physics, biology, and health, complemented by a multi-day hackathon and industry perspectives on AI for societal impact.",
+      "when": "August 2026",
+      "where": "Aalto University, Finland"
     },
     {
       "year": 2026,
@@ -74,7 +90,9 @@
       "code": "",
       "title": "KCDS Summer School 2026 on Graph Neural Networks",
       "url": "https://www.kcds.kit.edu/index.php/event/61333#calendar_top",
-      "description": "Five-day summer school on Graph Neural Networks, covering both fundamental concepts and practical applications through lectures, interactive sessions, and hands-on tutorials on the mathematical foundations and real-world use cases of graph-based machine learning, complemented by a poster session, networking dinner, and social event; school expected to take place September 2026 at Karlsruhe Institute of Technology (KIT)."
+      "description": "Five-day summer school on Graph Neural Networks, covering both fundamental concepts and practical applications through lectures, interactive sessions, and hands-on tutorials on the mathematical foundations and real-world use cases of graph-based machine learning, complemented by a poster session, networking dinner, and social event.",
+      "when": "September 2026",
+      "where": "Karlsruhe Institute of Technology (KIT)"
     }
   ]
 }

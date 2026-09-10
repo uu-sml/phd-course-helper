@@ -11,7 +11,10 @@
       "credits": "3.0",
       "title": "Research Introduction for New PhD Students [3.0 credits]",
       "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8909844",
-      "description": "Introduction to PhD studies for new doctoral students at the TekNat faculty (Ångström, BMC, ITC and GEO); covers the structure of PhD studies, rights and obligations, employment conditions, research data management, research ethics, science vs pseudoscience, science outreach and popularization (including Wikipedia), stress management, goal formulation, pedagogy and presentation skills, requiring 80% attendance and given every term; course expected to take place October - November 2026 at Uppsala University."
+      "description": "Introduction to PhD studies for new doctoral students at the TekNat faculty; covers the structure of PhD studies, rights and obligations, employment conditions, research data management, research ethics, science vs pseudoscience, science outreach and popularization (including Wikipedia), stress management, goal formulation, pedagogy and presentation skills. Requires 80% attendance and is given every term.",
+      "when": "October - November 2026",
+      "where": "Uppsala University (for PhD students at Ångström, BMC, ITC and GEO)",
+      "contact": "Register via the course link above; course responsible Mattias Klintenberg."
     },
     {
       "year": 2027,
@@ -20,7 +23,10 @@
       "credits": "12.0",
       "title": "Information Theory [12.0 credits]",
       "url": "https://people.kth.se/~skoglund/edu/infotheory/",
-      "description": "General introduction to information theory with a focus on communications, channel coding and capacity; covers entropy and mutual information, the asymptotic equipartition property, entropy rate, data compression and source coding, channel capacity and coding for noisy channels (discrete memoryless and Gaussian channels), finite field theory, design and analysis of error correcting codes (linear block, cyclic, BCH and Reed-Solomon codes), and an introduction to network information theory, with the doctoral version adding error exponents, general converse results and a research paper presentation; course expected to be given (in period 4) around March - June 2027 at KTH."
+      "description": "General introduction to information theory with a focus on communications, channel coding and capacity; covers entropy and mutual information, the asymptotic equipartition property, entropy rate, data compression and source coding, channel capacity and coding for noisy channels (discrete memoryless and Gaussian channels), finite field theory, design and analysis of error correcting codes (linear block, cyclic, BCH and Reed-Solomon codes), and an introduction to network information theory, with the doctoral version adding error exponents, general converse results and a research paper presentation.",
+      "when": "March - June 2027 (period 4)",
+      "where": "KTH",
+      "contact": "Course responsible Mikael Skoglund."
     },
     {
       "year": 2027,
@@ -29,7 +35,10 @@
       "credits": "12.0",
       "title": "Information Theory for Statistics and Learning [12.0 credits]",
       "url": "https://people.kth.se/~skoglund/edu/IT-stats/",
-      "description": "Explores the overlap between information theory, statistics, machine learning and decision-making; covers entropy, mutual information, relative entropy and f-divergence, rate-distortion theory and the information bottleneck, statistical decision theory, information bounds on error probability and risk (Fano-type inequalities), generalization bounds and VC dimension, variational methods and the ELBO, classical estimation (maximum likelihood, Fisher information, Cramér-Rao), minimax risk via packing/covering and Le Cam's and Assouad's methods, compressed sensing, the method of types and large deviations, and information geometry; course expected to be given (in periods 2-3) around November 2027 - March 2028 at KTH."
+      "description": "Explores the overlap between information theory, statistics, machine learning and decision-making; covers entropy, mutual information, relative entropy and f-divergence, rate-distortion theory and the information bottleneck, statistical decision theory, information bounds on error probability and risk (Fano-type inequalities), generalization bounds and VC dimension, variational methods and the ELBO, classical estimation (maximum likelihood, Fisher information, Cramér-Rao), minimax risk via packing/covering and Le Cam's and Assouad's methods, compressed sensing, the method of types and large deviations, and information geometry.",
+      "when": "November 2027 - March 2028 (periods 2-3)",
+      "where": "KTH",
+      "contact": "Course responsibles Mikael Skoglund and Tobias Oechtering."
     },
     {
       "year": 2028,
@@ -38,7 +47,10 @@
       "credits": "12.0",
       "title": "Probability and Random Processes [12.0 credits]",
       "url": "https://people.kth.se/~skoglund/edu/probability/",
-      "description": "Solid background in measure-theoretic probability and random processes for PhD students in information theory, signal processing, learning and control; covers Lebesgue measure and integration on the real line, general measure and integration theory, probability spaces and expectation, the law of large numbers, differentiation and the Radon-Nikodym derivative, conditional probability and expectation, topological and metric spaces (Polish and standard spaces), extension theorems and product measure, random processes and Kolmogorov's extension theorem, dynamical systems and the ergodic theorem, with applications to detection, estimation and coding; course expected to be given (in period 3) around January - March 2028 at KTH."
+      "description": "Solid background in measure-theoretic probability and random processes for PhD students in information theory, signal processing, learning and control; covers Lebesgue measure and integration on the real line, general measure and integration theory, probability spaces and expectation, the law of large numbers, differentiation and the Radon-Nikodym derivative, conditional probability and expectation, topological and metric spaces (Polish and standard spaces), extension theorems and product measure, random processes and Kolmogorov's extension theorem, dynamical systems and the ergodic theorem, with applications to detection, estimation and coding.",
+      "when": "January - March 2028 (period 3)",
+      "where": "KTH",
+      "contact": "Course responsible Mikael Skoglund."
     },
     {
       "year": 2026,
@@ -47,7 +59,9 @@
       "credits": "10.0",
       "title": "Matrix Algebra [10.0 credits]",
       "url": "https://www.kth.se/student/kurser/kurs/FEM3220?l=en",
-      "description": "Matrix algebra covering eigenvalues/eigenvectors, canonical/Jordan forms, QR/SVD, matrix norms, perturbation theory, positive/stochastic matrices, Lyapunov stability, and matrix equations; course expected to be given March - June 2026 at KTH."
+      "description": "Matrix algebra covering eigenvalues/eigenvectors, canonical/Jordan forms, QR/SVD, matrix norms, perturbation theory, positive/stochastic matrices, Lyapunov stability, and matrix equations.",
+      "when": "March - June 2026",
+      "where": "KTH"
     },
     {
       "year": 2026,
@@ -56,7 +70,9 @@
       "credits": "6.0",
       "title": "Convex Optimization with Engineering Applications [6.0 credits]",
       "url": "https://www.kth.se/kurs-pm/FSF3847/FSF384720261-10860",
-      "description": "Convex sets/functions, LP/QP/geometric/SDP, duality, interior-point and decomposition methods, with applications in estimation, data fitting, control, and communications; course expected to be given March - May 2026 at KTH."
+      "description": "Convex sets/functions, LP/QP/geometric/SDP, duality, interior-point and decomposition methods, with applications in estimation, data fitting, control, and communications.",
+      "when": "March - May 2026",
+      "where": "KTH"
     },
     {
       "year": 2026,
@@ -65,7 +81,9 @@
       "credits": "5.0",
       "title": "Great Ideas in Learning and Control [5.0 credits]",
       "url": "https://d3c-group.github.io/courses/greatideas/",
-      "description": "Explores foundational 20th-century concepts in ML and control theory: information theory, dynamical systems, extremum problems, feedback, statistical learning, and dynamic programming; course expected to be given February - March 2026 at Uppsala University."
+      "description": "Explores foundational 20th-century concepts in ML and control theory: information theory, dynamical systems, extremum problems, feedback, statistical learning, and dynamic programming.",
+      "when": "February - March 2026",
+      "where": "Uppsala University"
     },
     {
       "year": 2026,
@@ -74,7 +92,9 @@
       "credits": "10.0",
       "title": "Context Engineering for Football [10.0 credits]",
       "url": "https://twelve.football/courses/46Dw3eQyVSD7OcsTlKcKbX",
-      "description": "Explores techniques for obtaining reliable output from LLMs and communicating data accessibly, based on building Twelve Earpiece; covers transformer architectures and their implications for LLM usage in software applications, with hands-on app development as exam; course expected to start February 23rd 2026 at Uppsala University."
+      "description": "Explores techniques for obtaining reliable output from LLMs and communicating data accessibly, based on building Twelve Earpiece; covers transformer architectures and their implications for LLM usage in software applications, with hands-on app development as exam.",
+      "when": "Starting February 23rd 2026",
+      "where": "Uppsala University"
     },
     {
       "year": 2026,
@@ -83,7 +103,9 @@
       "credits": "3.0",
       "title": "Introduction to Network Science [3.0 credits]",
       "url": "https://uuinfolab.github.io/courses/networkscience_phd2026",
-      "description": "Network science covering basic concepts including centrality measures, network properties, network models, propagation dynamics, and network mining tasks (community detection, link prediction, position/role detection), with practical activities using R and network analysis software, plus student-selected advanced topics such as multilayer networks and temporal networks; course expected to take place May - June 2026 at Uppsala University."
+      "description": "Network science covering basic concepts including centrality measures, network properties, network models, propagation dynamics, and network mining tasks (community detection, link prediction, position/role detection), with practical activities using R and network analysis software, plus student-selected advanced topics such as multilayer networks and temporal networks.",
+      "when": "May - June 2026",
+      "where": "Uppsala University"
     },
     {
       "year": 2026,
@@ -92,7 +114,10 @@
       "credits": "7.5",
       "title": "Spectral Graph Theory [7.5 credits]",
       "url": "https://www.uu.se/en/department/mathematics/study/phd-studies/phd-courses",
-      "description": "Course on spectral graph theory covering eigenvalues and eigenvectors of adjacency and Laplacian matrices, with applications to random walks, graph expansion, conductance, and energy minimization of Hamiltonian systems. Includes recent breakthroughs in community detection using non-backtracking matrices. Course expected to take place April 2026 at Uppsala University. Contact responsible fiona.skerman@math.uu.se for more information."
+      "description": "Course on spectral graph theory covering eigenvalues and eigenvectors of adjacency and Laplacian matrices, with applications to random walks, graph expansion, conductance, and energy minimization of Hamiltonian systems, including recent breakthroughs in community detection using non-backtracking matrices.",
+      "when": "April 2026",
+      "where": "Uppsala University",
+      "contact": "Course responsible fiona.skerman@math.uu.se."
     },
     {
       "year": 2027,
@@ -101,7 +126,9 @@
       "credits": "8.0",
       "title": "Multivariable Control [8.0 credits]",
       "url": "https://www.kth.se/student/kurser/kurs/FEL3210?l=en",
-      "description": "Introduction to robust linear multivariable control, covering feedback limitations, stability/performance under uncertainty, H2/H∞ methods, μ-synthesis, loop shaping, and LMIs; course expected to be given (for the last time (ever!)) in P4 of 2027 at KTH."
+      "description": "Introduction to robust linear multivariable control, covering feedback limitations, stability/performance under uncertainty, H2/H∞ methods, μ-synthesis, loop shaping, and LMIs.",
+      "when": "Period 4, 2027 (given for the last time ever!)",
+      "where": "KTH"
     },
     {
       "year": 2026,
@@ -110,7 +137,9 @@
       "credits": "7.5",
       "title": "Numerical Linear Algebra [7.5 credits]",
       "url": "https://www.kth.se/student/kurser/kurs/FSF3580?l=en",
-      "description": "Numerical linear algebra methods for large-scale eigenvalue problems, linear systems, matrix functions and equations, with convergence theory, implementation aspects, and a project component; course expected to be given sometime in the fall of 2026 at KTH."
+      "description": "Numerical linear algebra methods for large-scale eigenvalue problems, linear systems, matrix functions and equations, with convergence theory, implementation aspects, and a project component.",
+      "when": "Fall 2026",
+      "where": "KTH"
     },
     {
       "year": 2026,
@@ -119,7 +148,9 @@
       "credits": "7.5",
       "title": "Nonlinear Algebra [7.5 credits]",
       "url": "https://www.su.se/english/education/course-catalogue/mm/mm7054",
-      "description": "Master/PhD course on algebraic geometry for real-world problems and symbolic/numerical algorithms for solving polynomial systems, with hands-on investigations (proofs and coding) of algebraic optimization and inverse problems from robotics, computer vision, and deep learning; course expected to take place September 2026 - January 2027 at Stockholm University."
+      "description": "Master/PhD course on algebraic geometry for real-world problems and symbolic/numerical algorithms for solving polynomial systems, with hands-on investigations (proofs and coding) of algebraic optimization and inverse problems from robotics, computer vision, and deep learning.",
+      "when": "September 2026 - January 2027",
+      "where": "Stockholm University"
     },
     {
       "year": 2027,
@@ -128,7 +159,9 @@
       "credits": "8.0",
       "title": "Computational Game Theory [8.0 credits]",
       "url": "https://www.kth.se/student/kurser/kurs/FEP3301?l=en",
-      "description": "Computational game theory covering Nash and Bayesian equilibria, stochastic and evolutionary games, coalition games, and mechanism design, with focus on formalizing, analyzing, and solving problems; course expected to be given sometime in the fall of 2027 at KTH."
+      "description": "Computational game theory covering Nash and Bayesian equilibria, stochastic and evolutionary games, coalition games, and mechanism design, with focus on formalizing, analyzing, and solving problems.",
+      "when": "Fall 2027",
+      "where": "KTH"
     },
     {
       "year": 2026,
@@ -137,7 +170,9 @@
       "credits": "5.0",
       "title": "Applied Computational Fluid Dynamics [5.0 credits]",
       "url": "https://uppsala.instructure.com/courses/119964",
-      "description": "Project-driven introduction to computational fluid dynamics with an emphasis on numerical analysis and finite element methods, deriving and implementing the algorithms in Python; covers linear advection, time integration, CFL conditions, stability and stabilization, nonlinear scalar conservation laws, shocks and entropy conditions, high-resolution schemes, and the compressible Euler equations, with students building their own solver using the FEniCS framework; course expected to take place September 2026 - January 2027 at Uppsala University."
+      "description": "Project-driven introduction to computational fluid dynamics with an emphasis on numerical analysis and finite element methods, deriving and implementing the algorithms in Python; covers linear advection, time integration, CFL conditions, stability and stabilization, nonlinear scalar conservation laws, shocks and entropy conditions, high-resolution schemes, and the compressible Euler equations, with students building their own solver using the FEniCS framework.",
+      "when": "September 2026 - January 2027",
+      "where": "Uppsala University"
     },
     {
       "year": 2026,
@@ -146,7 +181,10 @@
       "credits": "5.0",
       "title": "Probabilistic Method [5.0 credits]",
       "url": "https://www.uu.se/en/staff/faculty/science-and-technology/education-and-teaching/doctoral-studies/doctoral-student/courses/faculty-courses/2026-probabilistic-method",
-      "description": "Faculty-wide course on the probabilistic method and the analysis of random discrete structures; covers random graph models, first and second moment methods, thresholds and phase transitions, analysis of random algorithms, the Lovász Local Lemma, correlation and Janson inequalities, and concentration and entropy methods, taught at the blackboard with student presentations; course expected to take place September - December 2026 at Uppsala University. Contact fiona.skerman@math.uu.se to be added to the course page."
+      "description": "Faculty-wide course on the probabilistic method and the analysis of random discrete structures; covers random graph models, first and second moment methods, thresholds and phase transitions, analysis of random algorithms, the Lovász Local Lemma, correlation and Janson inequalities, and concentration and entropy methods, taught at the blackboard with student presentations.",
+      "when": "September - December 2026",
+      "where": "Uppsala University",
+      "contact": "Contact fiona.skerman@math.uu.se to be added to the course page."
     },
     {
       "year": 2026,
@@ -155,7 +193,10 @@
       "credits": "5.0",
       "title": "Theory of Orthogonal Polynomials and Applications [5.0 credits]",
       "url": "https://www.uu.se/en/centre/interdisciplinary-mathematics/phd-studies-at-cim/phd-courses",
-      "description": "Interdisciplinary CIM course on the modern theory of orthogonal polynomials on the real line and the unit circle; covers recurrence coefficients, Jacobi and CMV matrices, the Christoffel–Darboux kernel, Herglotz/Carathéodory/Schur functions, classical families and asymptotics (Szegő's and Rakhmanov's theorems), with applications in numerical analysis, physics, and signal processing; course expected to take place November - December 2026 at Uppsala University. Contact kozhan@math.uu.se to register."
+      "description": "Interdisciplinary CIM course on the modern theory of orthogonal polynomials on the real line and the unit circle; covers recurrence coefficients, Jacobi and CMV matrices, the Christoffel–Darboux kernel, Herglotz/Carathéodory/Schur functions, classical families and asymptotics (Szegő's and Rakhmanov's theorems), with applications in numerical analysis, physics, and signal processing.",
+      "when": "November - December 2026",
+      "where": "Uppsala University",
+      "contact": "Contact kozhan@math.uu.se to register."
     },
     {
       "year": 2026,
@@ -164,7 +205,9 @@
       "credits": "5.0",
       "title": "Fluid Mechanics [5.0 credits]",
       "url": "https://www.uu.se/en/study/syllabus?query=32d83040-b4e3-11f0-bd83-743a3e5145ea",
-      "description": "Introduction to fluid (continuum) mechanics for master and PhD students in physics or engineering; covers basic equations for ideal and viscous flows, potential and vortex flows, flows around cylinders and spheres, two-dimensional wing theory, boundary layers, dimensional analysis, turbulence, surface and internal waves, and flow stability, with lectures, problem classes, and computer labs; course expected to take place September - December 2026 at Uppsala University."
+      "description": "Introduction to fluid (continuum) mechanics for master and PhD students in physics or engineering; covers basic equations for ideal and viscous flows, potential and vortex flows, flows around cylinders and spheres, two-dimensional wing theory, boundary layers, dimensional analysis, turbulence, surface and internal waves, and flow stability, with lectures, problem classes, and computer labs.",
+      "when": "September - December 2026",
+      "where": "Uppsala University"
     },
     {
       "year": 2026,
@@ -173,7 +216,9 @@
       "credits": "3.0",
       "title": "Brain Inspired Learning: A Dynamical Systems Perspective [3.0 credits]",
       "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8910193",
-      "description": "Interdisciplinary CIM course studying how brain-inspired computing architectures and learning algorithms can be understood through nonlinear dynamics, stability theory, and state-space representations, integrating signal processing, machine learning, control theory, dynamical systems theory, and neuromorphic computing; covers fixed points, stability analysis, phase portraits, limit cycles, bifurcations, integrate-and-fire and Hodgkin–Huxley neurons, recurrent and spiking neural networks, attractor dynamics, Hopfield networks, Hebbian learning, spike-timing-dependent plasticity, neural ODEs, reservoir computing, and deep state-space models, followed by a participant seminar series; course expected to take place October - December 2026 at Uppsala University."
+      "description": "Interdisciplinary CIM course studying how brain-inspired computing architectures and learning algorithms can be understood through nonlinear dynamics, stability theory, and state-space representations, integrating signal processing, machine learning, control theory, dynamical systems theory, and neuromorphic computing; covers fixed points, stability analysis, phase portraits, limit cycles, bifurcations, integrate-and-fire and Hodgkin–Huxley neurons, recurrent and spiking neural networks, attractor dynamics, Hopfield networks, Hebbian learning, spike-timing-dependent plasticity, neural ODEs, reservoir computing, and deep state-space models, followed by a participant seminar series.",
+      "when": "October - December 2026",
+      "where": "Uppsala University"
     },
     {
       "year": 2026,
@@ -182,7 +227,9 @@
       "credits": "5.0",
       "title": "Statistics and Data Science Using Agentic AI [5.0 credits]",
       "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8910532",
-      "description": "Practical, hands-on course on using agentic AI tools (such as Claude and OpenAI's Codex) for faster and more rigorous data analysis across the natural sciences and engineering, covering effective prompting, Skills and instruction files for repeatable results, how agentic AI works and its limits, context engineering and test agents for correctness and reproducibility, and reproducibility, open science, and the ethics of AI use in publications; each participant builds their own subject-specific statistics and data science agent in Python or R; course expected to take place October - November 2026 at Uppsala University."
+      "description": "Practical, hands-on course on using agentic AI tools (such as Claude and OpenAI's Codex) for faster and more rigorous data analysis across the natural sciences and engineering, covering effective prompting, Skills and instruction files for repeatable results, how agentic AI works and its limits, context engineering and test agents for correctness and reproducibility, and reproducibility, open science, and the ethics of AI use in publications; each participant builds their own subject-specific statistics and data science agent in Python or R.",
+      "when": "October - November 2026",
+      "where": "Uppsala University"
     },
     {
       "year": 2027,
@@ -191,9 +238,9 @@
       "credits": "7.0",
       "title": "Learning Theory and High-Dimensional Statistics [7 + 3 credits]",
       "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8910322",
-      "description": "Rigorous introduction to the mathematical foundations of learning algorithms, in two parts: fundamental tools for high dimensionality in probability and statistics (tail and concentration bounds, sub-Gaussian and sub-exponential variables, uniform laws of large numbers, Rademacher complexity, VC dimension, metric entropy and chaining) and their application to learning theory (empirical risk minimization, fixed- and random-design analysis, least squares and ridge regression, Lasso and sparse methods, reproducing kernel Hilbert spaces, and approximation/estimation error in neural networks); the optional extra 3 credits are awarded for a final project; course expected to take place January - March 2027 at Uppsala University."
+      "description": "Rigorous introduction to the mathematical foundations of learning algorithms, in two parts: fundamental tools for high dimensionality in probability and statistics (tail and concentration bounds, sub-Gaussian and sub-exponential variables, uniform laws of large numbers, Rademacher complexity, VC dimension, metric entropy and chaining) and their application to learning theory (empirical risk minimization, fixed- and random-design analysis, least squares and ridge regression, Lasso and sparse methods, reproducing kernel Hilbert spaces, and approximation/estimation error in neural networks); the optional extra 3 credits are awarded for a final project.",
+      "when": "January - March 2027",
+      "where": "Uppsala University"
     }
   ]
 }
-
-
