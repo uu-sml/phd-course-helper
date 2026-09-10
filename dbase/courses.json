@@ -1,9 +1,45 @@
 {
   "metadata": {
-    "lastUpdated": "August 2026",
+    "lastUpdated": "September 2026",
     "contactEmail": "david.vavinggren@it.uu.se"
   },
   "courses": [
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "",
+      "credits": "3.0",
+      "title": "Research Introduction for New PhD Students [3.0 credits]",
+      "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8909844",
+      "description": "Introduction to PhD studies for new doctoral students at the TekNat faculty (Ångström, BMC, ITC and GEO); covers the structure of PhD studies, rights and obligations, employment conditions, research data management, research ethics, science vs pseudoscience, science outreach and popularization (including Wikipedia), stress management, goal formulation, pedagogy and presentation skills, requiring 80% attendance and given every term; course expected to take place October - November 2026 at Uppsala University."
+    },
+    {
+      "year": 2027,
+      "semester": "Spring",
+      "code": "FEO3210",
+      "credits": "12.0",
+      "title": "Information Theory [12.0 credits]",
+      "url": "https://people.kth.se/~skoglund/edu/infotheory/",
+      "description": "General introduction to information theory with a focus on communications, channel coding and capacity; covers entropy and mutual information, the asymptotic equipartition property, entropy rate, data compression and source coding, channel capacity and coding for noisy channels (discrete memoryless and Gaussian channels), finite field theory, design and analysis of error correcting codes (linear block, cyclic, BCH and Reed-Solomon codes), and an introduction to network information theory, with the doctoral version adding error exponents, general converse results and a research paper presentation; course expected to be given (in period 4) around March - June 2027 at KTH."
+    },
+    {
+      "year": 2027,
+      "semester": "Winter",
+      "code": "FEO3350",
+      "credits": "12.0",
+      "title": "Information Theory for Statistics and Learning [12.0 credits]",
+      "url": "https://people.kth.se/~skoglund/edu/IT-stats/",
+      "description": "Explores the overlap between information theory, statistics, machine learning and decision-making; covers entropy, mutual information, relative entropy and f-divergence, rate-distortion theory and the information bottleneck, statistical decision theory, information bounds on error probability and risk (Fano-type inequalities), generalization bounds and VC dimension, variational methods and the ELBO, classical estimation (maximum likelihood, Fisher information, Cramér-Rao), minimax risk via packing/covering and Le Cam's and Assouad's methods, compressed sensing, the method of types and large deviations, and information geometry; course expected to be given (in periods 2-3) around November 2027 - March 2028 at KTH."
+    },
+    {
+      "year": 2028,
+      "semester": "Spring",
+      "code": "FEO3230",
+      "credits": "12.0",
+      "title": "Probability and Random Processes [12.0 credits]",
+      "url": "https://people.kth.se/~skoglund/edu/probability/",
+      "description": "Solid background in measure-theoretic probability and random processes for PhD students in information theory, signal processing, learning and control; covers Lebesgue measure and integration on the real line, general measure and integration theory, probability spaces and expectation, the law of large numbers, differentiation and the Radon-Nikodym derivative, conditional probability and expectation, topological and metric spaces (Polish and standard spaces), extension theorems and product measure, random processes and Kolmogorov's extension theorem, dynamical systems and the ergodic theorem, with applications to detection, estimation and coding; course expected to be given (in period 3) around January - March 2028 at KTH."
+    },
     {
       "year": 2026,
       "semester": "Spring",
