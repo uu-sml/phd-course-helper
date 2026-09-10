@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "lastUpdated": "September 2026",
+    "contactEmail": "david.vavinggren@it.uu.se"
+  },
+  "links": [
+    {
+      "group": "Uppsala University",
+      "title": "Information Technology – Doctoral studies",
+      "url": "https://www.uu.se/en/department/information-technology/doctoral-studies",
+      "description": "Doctoral studies overview at the Department of Information Technology."
+    },
+    {
+      "group": "Uppsala University",
+      "title": "IT – Systems and Control",
+      "url": "https://www.uu.se/institution/informationsteknologi/forskarutbildning/machine-learning-at-systems-and-control",
+      "description": "PhD course information for the Systems and Control division."
+    },
+    {
+      "group": "Uppsala University",
+      "title": "IT – Computerised Image Processing",
+      "url": "https://www.uu.se/institution/informationsteknologi/forskarutbildning/computerised-image-processing",
+      "description": "PhD course information for the Computerised Image Processing division."
+    },
+    {
+      "group": "Uppsala University",
+      "title": "IT – Scientific Computing",
+      "url": "https://www.uu.se/institution/informationsteknologi/forskarutbildning/scientific-computing",
+      "description": "PhD course information for the Scientific Computing division."
+    },
+    {
+      "group": "Uppsala University",
+      "title": "Mathematics – PhD courses",
+      "url": "https://www.uu.se/en/department/mathematics/study/phd-studies/phd-courses",
+      "description": "Doctoral course listings from the Department of Mathematics."
+    },
+    {
+      "group": "KTH",
+      "title": "All PhD courses by school and division",
+      "url": "https://www.kth.se/utbildning/forskarutbildning/kurser/avdelning?l=en",
+      "description": "Browse KTH's doctoral courses organised by school and division."
+    },
+    {
+      "group": "KTH",
+      "title": "Information Science and Engineering",
+      "url": "https://www.kth.se/utbildning/forskarutbildning/kurser/org/JRO?l=en",
+      "description": "Doctoral courses from the Information Science and Engineering division (EECS)."
+    },
+    {
+      "group": "KTH",
+      "title": "Decision and Control Systems",
+      "url": "https://www.kth.se/utbildning/forskarutbildning/kurser/org/JRL?l=en",
+      "description": "Doctoral courses from the Decision and Control Systems division (EECS)."
+    },
+    {
+      "group": "KTH",
+      "title": "Mathematics (SF)",
+      "url": "https://www.kth.se/utbildning/forskarutbildning/kurser/org/SF?l=en",
+      "description": "Doctoral courses from the Department of Mathematics."
+    }
+  ]
+}

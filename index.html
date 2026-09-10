@@ -41,7 +41,8 @@
         .item-title { font-weight: 600; font-size: 1.1rem; color: var(--text-black); text-decoration: none; }
         a.item-title { color: var(--uu-red); }
         a.item-title:hover { text-decoration: underline; }
-        .description { display: block; font-size: 0.95rem; color: #444; margin-top: 6px; }
+        .detail { display: block; font-size: 0.95rem; color: #444; margin-top: 8px; }
+        .label { font-weight: 700; color: var(--text-black); }
 
         footer { margin-top: 80px; padding-top: 20px; border-top: 1px solid var(--uu-gray); font-size: 0.85rem; color: #666; text-align: center; }
         .footer-link { color: var(--uu-red); text-decoration: none; }
@@ -57,8 +58,9 @@
     </header>
 
     <nav class="tabs">
-        <button class="tab-btn active" onclick="switchTab('courses')">Courses</button>
-        <button class="tab-btn" onclick="switchTab('schools')">Schools</button>
+        <button class="tab-btn active" data-type="courses" onclick="switchTab('courses')">Courses</button>
+        <button class="tab-btn" data-type="schools" onclick="switchTab('schools')">Schools</button>
+        <button class="tab-btn" data-type="links" onclick="switchTab('links')">Course pages</button>
     </nav>
 
     <main id="content-list">Loading...</main>
@@ -84,6 +86,13 @@
                 emailLink.href = `mailto:${meta.contactEmail}`;
                 emailLink.innerText = meta.contactEmail;
 
+                const container = document.getElementById('content-list');
+
+                if (type === 'links') {
+                    container.innerHTML = renderLinks(items);
+                    return;
+                }
+
                 items.sort((a, b) => {
                     if (b.year !== a.year) return b.year - a.year;
 
@@ -107,7 +116,6 @@
                     return acc;
                 }, {});
 
-                const container = document.getElementById('content-list');
                 container.innerHTML = Object.keys(groups).map(semesterKey => `
                     <section class="semester-section">
                         <div class="semester-title">${semesterKey}</div>
@@ -115,12 +123,15 @@
                             <div class="item-card">
                                 <div>
                                     ${i.code ? `<span class="item-code">${i.code}</span>` : ''}
-                                    ${i.url 
-                                        ? `<a href="${i.url}" class="item-title" target="_blank">${i.title}</a>` 
+                                    ${i.url
+                                        ? `<a href="${i.url}" class="item-title" target="_blank">${i.title}</a>`
                                         : `<span class="item-title">${i.title}</span>`
                                     }
                                 </div>
-                                <span class="description">${i.description}</span>
+                                ${i.description ? `<span class="detail"><span class="label">Description:</span> ${i.description}</span>` : ''}
+                                ${i.when ? `<span class="detail"><span class="label">When?</span> ${i.when}</span>` : ''}
+                                ${i.where ? `<span class="detail"><span class="label">Where?</span> ${i.where}</span>` : ''}
+                                ${i.contact ? `<span class="detail"><span class="label">Sign-up / contact:</span> ${i.contact}</span>` : ''}
                             </div>
                         `).join('')}
                     </section>
@@ -131,10 +142,33 @@
             }
         }
 
+        function renderLinks(items) {
+            const groups = items.reduce((acc, item) => {
+                const key = item.group || 'Other';
+                if (!acc[key]) acc[key] = [];
+                acc[key].push(item);
+                return acc;
+            }, {});
+
+            return Object.keys(groups).map(groupKey => `
+                <section class="semester-section">
+                    <div class="semester-title">${groupKey}</div>
+                    ${groups[groupKey].map(i => `
+                        <div class="item-card">
+                            <div>
+                                <a href="${i.url}" class="item-title" target="_blank">${i.title}</a>
+                            </div>
+                            ${i.description ? `<span class="detail">${i.description}</span>` : ''}
+                        </div>
+                    `).join('')}
+                </section>
+            `).join('');
+        }
+
         function switchTab(type) {
             currentType = type;
             document.querySelectorAll('.tab-btn').forEach(btn => {
-                btn.classList.toggle('active', btn.innerText.toLowerCase().includes(type));
+                btn.classList.toggle('active', btn.dataset.type === type);
             });
             renderData(type);
         }
