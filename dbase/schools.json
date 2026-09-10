@@ -93,6 +93,17 @@
       "description": "Five-day summer school on Graph Neural Networks, covering both fundamental concepts and practical applications through lectures, interactive sessions, and hands-on tutorials on the mathematical foundations and real-world use cases of graph-based machine learning, complemented by a poster session, networking dinner, and social event.",
       "when": "September 2026",
       "where": "Karlsruhe Institute of Technology (KIT)"
+    },
+    {
+      "year": 2027,
+      "semester": "Spring",
+      "code": "MLSS2027",
+      "title": "Machine Learning Summer School 2027 Okinawa",
+      "url": "https://oist.github.io/mlss2027okinawa/index.html",
+      "description": "Two-week summer school for master's and PhD students with a strong technical background in machine learning, aiming to select around 200 participants; features lectures from leading researchers across topics such as PAC-Bayes and learning theory, optimal transport, diffusion and world models, kernel methods, bandits, language models and NLP, distributed optimization, and trustworthy/robust ML, complemented by daily poster and social sessions. Participants are expected to have Python experience and a basic background in linear algebra, calculus, probability, and statistics.",
+      "when": "March 1-12, 2027",
+      "where": "Okinawa Institute of Science and Technology (OIST), Onna, Okinawa, Japan",
+      "contact": "Registration expected to open August 2026 via OpenReview. See page for details."
     }
   ]
 }
