@@ -11,7 +11,7 @@
       "credits": "3.0",
       "title": "Research Introduction for New PhD Students [3.0 credits]",
       "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8909844",
-      "description": "Introduction to PhD studies for new doctoral students at the TekNat faculty; covers the structure of PhD studies, rights and obligations, employment conditions, research data management, research ethics, science vs pseudoscience, science outreach and popularization (including Wikipedia), stress management, goal formulation, pedagogy and presentation skills. Requires 80% attendance and is given every term.",
+      "description": "Introduction to PhD studies for new doctoral students at the TekNat faculty; covers the structure of PhD studies, rights and obligations, employment conditions, research data management, research ethics, science vs pseudoscience, science outreach and popularization (including Wikipedia), stress management, goal formulation, pedagogy and presentation skills.",
       "when": "October - November 2026",
       "where": "Uppsala University (for PhD students at Ångström, BMC, ITC and GEO)",
       "contact": "Register via the course link above; course responsible Mattias Klintenberg."
@@ -92,7 +92,7 @@
       "credits": "10.0",
       "title": "Context Engineering for Football [10.0 credits]",
       "url": "https://twelve.football/courses/46Dw3eQyVSD7OcsTlKcKbX",
-      "description": "Explores techniques for obtaining reliable output from LLMs and communicating data accessibly, based on building Twelve Earpiece; covers transformer architectures and their implications for LLM usage in software applications, with hands-on app development as exam.",
+      "description": "Explores techniques for obtaining reliable output from LLMs and communicating data accessibly, based on building Twelve Earpiece; covers transformer architectures and their implications for LLM usage in software applications, with hands-on app development.",
       "when": "Starting February 23rd 2026",
       "where": "Uppsala University"
     },
@@ -238,9 +238,21 @@
       "credits": "7.0",
       "title": "Learning Theory and High-Dimensional Statistics [7 + 3 credits]",
       "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8910322",
-      "description": "Rigorous introduction to the mathematical foundations of learning algorithms, in two parts: fundamental tools for high dimensionality in probability and statistics (tail and concentration bounds, sub-Gaussian and sub-exponential variables, uniform laws of large numbers, Rademacher complexity, VC dimension, metric entropy and chaining) and their application to learning theory (empirical risk minimization, fixed- and random-design analysis, least squares and ridge regression, Lasso and sparse methods, reproducing kernel Hilbert spaces, and approximation/estimation error in neural networks); the optional extra 3 credits are awarded for a final project.",
+      "description": "Rigorous introduction to the mathematical foundations of learning algorithms, in two parts: fundamental tools for high dimensionality in probability and statistics (tail and concentration bounds, sub-Gaussian and sub-exponential variables, uniform laws of large numbers, Rademacher complexity, VC dimension, metric entropy and chaining) and their application to learning theory (empirical risk minimization, fixed- and random-design analysis, least squares and ridge regression, Lasso and sparse methods, reproducing kernel Hilbert spaces, and approximation/estimation error in neural networks).",
       "when": "January - March 2027",
       "where": "Uppsala University"
+    },
+    {
+      "year": 2027,
+      "semester": "Fall",
+      "code": "",
+      "credits": "7.0",
+      "title": "Statistical Learning for Data Science [7 + 3 credits]",
+      "url": "https://d3c-group.github.io/courses/statistical/",
+      "description": "PhD-level course providing a solid statistical foundation for researchers in machine learning, signal processing, control theory, and statistics, addressing issues in parameter inference and policy evaluation not adequately covered in conventional textbooks; covers fundamental concepts, inference and model learning, validation, regularization and the Bayesian approach, recursive methods, adaptation and time-series data, policies and causal structures, and predictive and interventional policies.",
+      "when": "Fall 2027",
+      "where": "Uppsala University",
+      "contact": "Register by e-mailing Dave Zachariah."
     }
   ]
 }
