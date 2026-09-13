@@ -54,7 +54,7 @@
     },
     {
       "group": "KTH",
-      "title": "Mathematics (SF)",
+      "title": "Mathematics – all courses",
       "url": "https://www.kth.se/utbildning/forskarutbildning/kurser/org/SF?l=en",
       "description": "Doctoral courses from the Department of Mathematics."
     },
@@ -62,13 +62,13 @@
       "group": "KTH",
       "title": "Applied and Computational Mathematics",
       "url": "https://www.kth.se/math/studies/graduate/applied-and-computat/2026-2027-1.1474981",
-      "description": "Graduate-level courses in applied and computational mathematics (optimization, numerical methods, data science) from the Department of Mathematics."
+      "description": "Graduate courses in applied and computational mathematics from the Department of Mathematics."
     },
     {
       "group": "KTH",
       "title": "Mathematics – Graduate courses",
       "url": "https://www.kth.se/math/studies/graduate/matematik",
-      "description": "Graduate-level courses in pure mathematics (algebra, analysis, geometry, topology), including broad and reading courses, from the Department of Mathematics."
+      "description": "Graduate courses in pure mathematics from the Department of Mathematics."
     }
   ]
 }
