@@ -104,6 +104,17 @@
       "when": "March 1-12, 2027",
       "where": "Okinawa Institute of Science and Technology (OIST), Onna, Okinawa, Japan",
       "contact": "Registration expected to open August 2026 via OpenReview. See page for details."
+    },
+    {
+      "year": 2027,
+      "semester": "Spring",
+      "code": "",
+      "title": "2027 Spring School on Data-driven Model Learning of Dynamic Systems",
+      "url": "https://spring-id-2027.sciencesconf.org/",
+      "description": "Five-day PhD course on data-driven modeling (system identification), covering the fundamentals of linear system identification (prediction error methods, non-parametric ETFE, model validation) and experiment design, plus advanced topics on optimal identification experiment design, Bayesian estimation, and Gaussian processes. Combines lectures with hands-on Matlab computer exercises.",
+      "when": "April 5-9, 2027",
+      "where": "Ecole Centrale de Lyon, Ecully, France (hybrid, with virtual attendance option)",
+      "contact": "Register via the linked conference page."
     }
   ]
 }
