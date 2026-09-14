@@ -253,6 +253,51 @@
       "when": "Fall 2027",
       "where": "Uppsala University",
       "contact": "Register by e-mailing Dave Zachariah."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "FSF3674",
+      "credits": "7.5",
+      "title": "Differential Geometry [7.5 credits]",
+      "url": "https://www.math-stockholm.se/en/kalender/kursstart/klaus-kroncke-fsf3674-differential-geometry-1.1489479",
+      "description": "Foundations of differential and Riemannian geometry: manifolds, Riemannian metrics and geodesics, how curvature affects the global topology of a manifold, and differential operators on manifolds with applications of spectral theory to geometry and topology.",
+      "when": "September 2026",
+      "where": "KTH"
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "FSF3624",
+      "credits": "7.5",
+      "title": "Random Matrices [7.5 credits]",
+      "url": "https://www.math-stockholm.se/en/kalender/kursstart/kurt-johansson-fsf3624-random-matrices-1.1489328",
+      "description": "Introduction to the basic mathematical concepts and techniques of random matrix theory, and its connections and applications across mathematics.",
+      "when": "September 2026",
+      "where": "KTH"
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "",
+      "credits": "7.5",
+      "title": "Higher Order Fourier Analysis [7.5 credits]",
+      "url": "https://www.math-stockholm.se/en/kalender/kursstart/yael-dillies-zhichen-zhou-and-othmane-rih-higher-order-fourier-analysis-reading-course-1.1490409",
+      "description": "Collaborative reading course on higher order Fourier analysis, building up to a proof of Szemerédi's theorem for k = 4.",
+      "when": "September 2026",
+      "where": "Stockholm University"
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "",
+      "credits": "7.5",
+      "title": "Soft Skills for Mathematicians [7.5 credits]",
+      "url": "https://www.math-stockholm.se/en/kalender/kursstart/tom-britton-soft-skills-for-mathematicians-1.1493720",
+      "description": "Practical course on academic soft skills for mathematicians: writing scientific papers and popular texts, giving scientific talks, and writing applications and navigating the submission procedure, including AI use and research ethics.",
+      "when": "October 2026",
+      "where": "Stockholm University",
+      "contact": "Contact Tom Britton (tom.britton@math.su.se)."
     }
   ]
 }
