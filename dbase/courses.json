@@ -298,6 +298,18 @@
       "when": "October 2026",
       "where": "Stockholm University",
       "contact": "Contact Tom Britton (tom.britton@math.su.se)."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "FID3216",
+      "credits": "7.5",
+      "title": "Data Feminism [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FID3216?l=en",
+      "description": "Course bridging data science with ethics and social justice, exploring data ethics, data justice, and data sustainability through an intersectional feminist lens based on the book \"Data Feminism\"; students learn to examine and challenge systems of power in data-driven practices and to identify, analyze, and mitigate biases inherent in data science.",
+      "when": "August 2026 - January 2027",
+      "where": "KTH (distance)",
+      "contact": "Examiner and course coordinator Amir Hossein Payberah."
     }
   ]
 }
