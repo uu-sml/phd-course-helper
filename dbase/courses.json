@@ -310,6 +310,30 @@
       "when": "August 2026 - January 2027",
       "where": "KTH (distance)",
       "contact": "Examiner and course coordinator Amir Hossein Payberah."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "",
+      "credits": "5.0",
+      "title": "Numerical Linear Algebra and Optimization [5 + 2.5 credits]",
+      "url": "https://docs.google.com/document/d/1U1x9eiuaByyNeKqZRqwUrpd7Mj06gHKGcxXrUI_j2Bs/edit?usp=sharing",
+      "description": "Doctoral course at the Division of Scientific Computing (TDB) on numerical linear algebra and optimization for computational science: dense and sparse matrix representations and HPC libraries, Krylov subspace methods for eigenvalues and linear systems with preconditioning, mixed and reduced precision computation, convex and non-convex optimization, and PDE-constrained optimization and inverse problems.",
+      "when": "November - December 2026",
+      "where": "Uppsala University",
+      "contact": "Register by 15 October 2026 at https://doit.medfarm.uu.se/bin/kurt3/kurt/8910842; contacts Roman Iakymchuk, Prashant Singh and Martin Almquist."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "",
+      "credits": "5.0",
+      "title": "Probability and Bayesian Inference for Computational Science [5 + 2.5 credits]",
+      "url": "https://docs.google.com/document/d/1jBh6yKTpf_Xi6NL5FY8CAMC5GmCqZS-V8kDz4quO7oc/edit?usp=sharing",
+      "description": "Doctoral course at the Division of Scientific Computing (TDB) on doing research probabilistically: formulating a research problem as a probabilistic model with explicit assumptions, computing with it, and checking whether the answer deserves belief. Covers measure-theoretic foundations, probability as a formal language, model construction, computational inference (Laplace approximation, Hamiltonian and sequential Monte Carlo, variational inference), model criticism through predictive checks, and decision theory, with a project on a problem from the student's own thesis.",
+      "when": "November - December 2026",
+      "where": "Uppsala University",
+      "contact": "Register by 15 October 2026 at https://doit.medfarm.uu.se/bin/kurt3/kurt/8911130; contact Prashant Singh (prashant.singh@it.uu.se)."
     }
   ]
 }
