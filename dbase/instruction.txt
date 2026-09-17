@@ -39,7 +39,10 @@ the "contact" field is who to contact and/or where and how to sign up, if that
 info is necessary or included (e.g. a course responsible, a registration email,
 or the registration link itself - a KURT/medfarm page belongs here, not in the
 "url" field). if a registration deadline is given, include it here too. if there
-is no such info, omit the field.
+is no such info, omit the field. any link in this field must be a real HTML
+anchor tag, not a raw pasted URL - the field is rendered as HTML, so write e.g.
+Register <a href=\"https://...\" target=\"_blank\">here</a> by <deadline>
+rather than pasting the bare url.
 
 all three of "when", "where" and "contact" are optional - only include a field
 if you have the information for it. the site renders each present field on its
