@@ -40,7 +40,7 @@
       "code": "LTSS2026",
       "title": "Learning Theory Summer School (LTSS) Copenhagen 2026",
       "url": "https://ltsscopenhagen.github.io/",
-      "description": "Four-day summer school (with optional two-day workshop) on modern learning theory and responsible machine learning, covering generalization, optimization for ML, online and reinforcement learning, privacy, and robustness, aimed at PhD and master students, early-career researchers, and industry professionals.",
+      "description": "Four-day summer school (with optional two-day workshop) on modern learning theory and responsible machine learning: generalization, optimization for ML, online and reinforcement learning, privacy, and robustness.",
       "when": "June 22-25, 2026 (with workshop June 26-27)",
       "where": "University of Copenhagen, Denmark"
     },
@@ -80,7 +80,7 @@
       "code": "ELLISSS2026",
       "title": "ELLIS Summer School 2026: AI for Research",
       "url": "https://www.ellisinstitute.fi/ellis-summer-school-2026",
-      "description": "Five-day summer school on AI for scientific research, covering AI-assisted research workflows and Bayesian models of scientist cognition, trustworthy AI with conformal prediction and learning under uncertainty, safe scientific agents, generative models, and physics-informed AI applied across chemistry, physics, biology, and health, complemented by a multi-day hackathon and industry perspectives on AI for societal impact.",
+      "description": "Five-day summer school on AI for scientific research: AI-assisted research workflows, trustworthy AI and learning under uncertainty, safe scientific agents, generative models, and physics-informed AI across chemistry, physics, biology and health, with a multi-day hackathon.",
       "when": "August 2026",
       "where": "Aalto University, Finland"
     },
@@ -90,7 +90,7 @@
       "code": "",
       "title": "KCDS Summer School 2026 on Graph Neural Networks",
       "url": "https://www.kcds.kit.edu/index.php/event/61333#calendar_top",
-      "description": "Five-day summer school on Graph Neural Networks, covering both fundamental concepts and practical applications through lectures, interactive sessions, and hands-on tutorials on the mathematical foundations and real-world use cases of graph-based machine learning, complemented by a poster session, networking dinner, and social event.",
+      "description": "Five-day summer school on Graph Neural Networks, covering the mathematical foundations and real-world applications of graph-based machine learning through lectures, interactive sessions, and hands-on tutorials, plus a poster session.",
       "when": "September 2026",
       "where": "Karlsruhe Institute of Technology (KIT)"
     },
@@ -100,7 +100,7 @@
       "code": "MLSS2027",
       "title": "Machine Learning Summer School 2027 Okinawa",
       "url": "https://oist.github.io/mlss2027okinawa/index.html",
-      "description": "Two-week summer school for master's and PhD students with a strong technical background in machine learning, aiming to select around 200 participants; features lectures from leading researchers across topics such as PAC-Bayes and learning theory, optimal transport, diffusion and world models, kernel methods, bandits, language models and NLP, distributed optimization, and trustworthy/robust ML, complemented by daily poster and social sessions. Participants are expected to have Python experience and a basic background in linear algebra, calculus, probability, and statistics.",
+      "description": "Two-week summer school for master's and PhD students with a strong ML background, featuring lectures from leading researchers on PAC-Bayes and learning theory, optimal transport, diffusion and world models, kernel methods, bandits, language models, and trustworthy ML, with daily poster and social sessions.",
       "when": "March 1-12, 2027",
       "where": "Okinawa Institute of Science and Technology (OIST), Onna, Okinawa, Japan",
       "contact": "Registration expected to open August 2026 via OpenReview. See page for details."
@@ -111,7 +111,7 @@
       "code": "",
       "title": "2027 Spring School on Data-driven Model Learning of Dynamic Systems",
       "url": "https://spring-id-2027.sciencesconf.org/",
-      "description": "Five-day PhD course on data-driven modeling (system identification), covering the fundamentals of linear system identification (prediction error methods, non-parametric ETFE, model validation) and experiment design, plus advanced topics on optimal identification experiment design, Bayesian estimation, and Gaussian processes. Combines lectures with hands-on Matlab computer exercises.",
+      "description": "Five-day PhD course on data-driven modeling (system identification): the fundamentals of linear system identification and experiment design, plus advanced topics like Bayesian estimation and Gaussian processes, combining lectures with hands-on Matlab exercises.",
       "when": "April 5-9, 2027",
       "where": "Ecole Centrale de Lyon, Ecully, France (hybrid, with virtual attendance option)",
       "contact": "Register via the linked conference page."

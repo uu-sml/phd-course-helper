@@ -18,8 +18,16 @@ to make the description more appealing, but keep it rather brief.
 
 the "description" field should be ONLY a short summary of the course content
 (no dates, location, examination/assessment details, or registration info -
-those either live in their own fields or are left out). keep it brief - one to
-a few sentences on the actual topics covered.
+those either live in their own fields or are left out). think of it as a PRIMER
+that sparks interest and makes the reader want to click the link to read more,
+NOT an exhaustive syllabus. when the entry has a "url" with more info (the usual
+case), keep it to just a few sentences: a one-line framing of what the course is
+about plus a short, representative sample of topics (not every topic covered).
+for example, this is a good length and style:
+  "Introduction to robust linear multivariable control, covering feedback
+   limitations, stability/performance under uncertainty, H2/H∞ methods,
+   μ-synthesis, loop shaping, and LMIs."
+only go longer if there is no link where the reader can find out more.
 
 the "url" field should point to the course's own information page - a syllabus
 page, a course-plan or course-description document (e.g. a shared Google Doc),
