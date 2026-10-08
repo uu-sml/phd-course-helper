@@ -1,6 +1,6 @@
 # phdcourses
 
-Course helper for SysCon PhD students.
+Course helper for SysCon PhD students, available at `https://uu-sml.github.io/phd-course-helper/`.
 
 To run locally, clone the repo and run 
 
