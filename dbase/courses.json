@@ -138,8 +138,9 @@
       "title": "Numerical Linear Algebra [7.5 credits]",
       "url": "https://www.kth.se/student/kurser/kurs/FSF3580?l=en",
       "description": "Numerical linear algebra methods for large-scale eigenvalue problems, linear systems, matrix functions and equations, with convergence theory, implementation aspects, and a project component.",
-      "when": "Fall 2026",
-      "where": "KTH"
+      "when": "October 2026 - January 2027",
+      "where": "KTH",
+      "contact": "Course responsible Elias Jarlebring."
     },
     {
       "year": 2026,
@@ -334,6 +335,114 @@
       "when": "November - December 2026",
       "where": "Uppsala University",
       "contact": "Register <a href=\"https://doit.medfarm.uu.se/bin/kurt3/kurt/8911130\" target=\"_blank\">here</a> by 15 October 2026; contact Prashant Singh (prashant.singh@it.uu.se)."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "FSF3565",
+      "credits": "7.5",
+      "title": "Program Construction in C++ for Scientific Computing [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FSF3565?l=en",
+      "description": "How to implement advanced numerical methods for scientific computing in C++: object-oriented and generic programming, operator overloading and polymorphism, the standard library, data structures for structured and unstructured grids, and efficient finite difference implementations.",
+      "when": "August 2026 - January 2027",
+      "where": "KTH",
+      "contact": "Course responsible Katarina Gustavsson."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "FSF3567",
+      "credits": "7.5",
+      "title": "Numerical Solutions of Differential Equations [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FSF3567?l=en",
+      "description": "Numerical treatment of initial value, boundary value and eigenvalue problems for ODEs and PDEs: well-posedness, stability and convergence, finite differences, finite elements and finite volumes, the method of lines, and problems with shocks, with computer labs and application-oriented projects.",
+      "when": "August 2026 - January 2027",
+      "where": "KTH",
+      "contact": "Course responsible Jennifer Ryan."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "FSF3832",
+      "credits": "7.5",
+      "title": "Mathematical Systems Theory [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FSF3832?l=en",
+      "description": "State-space theory of linear control systems: reachability, observability and stability, realization theory and minimality, feedback, pole assignment and observers, linear-quadratic optimal control and Riccati equations, and Kalman filtering.",
+      "when": "Fall 2026",
+      "where": "KTH",
+      "contact": "Course responsible Xiaoming Hu."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "FSF3852",
+      "credits": "7.5",
+      "title": "Optimal Control Theory [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FSF3852?l=en",
+      "description": "Optimal control in continuous and discrete time: dynamic programming and the Hamilton-Jacobi-Bellman equation, the Pontryagin maximum principle, linear-quadratic control, model predictive control, and numerical methods for optimal control problems.",
+      "when": "August - October 2026",
+      "where": "KTH",
+      "contact": "Course responsible Johan Karlsson."
+    },
+    {
+      "year": 2026,
+      "semester": "Fall",
+      "code": "FSF3965",
+      "credits": "7.5",
+      "title": "Mathematics of Data Science [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FSF3965?l=en",
+      "description": "Mathematical foundations of data science where high-dimensional statistics meets optimization: high-dimensional linear regression, concentration of measure, Fenchel duality, stochastic approximation and monotone operators, compressed sensing, random projections, and splitting methods.",
+      "when": "October 2026 - March 2027",
+      "where": "KTH",
+      "contact": "Course responsible Henrik Hult."
+    },
+    {
+      "year": 2027,
+      "semester": "Spring",
+      "code": "FSF3581",
+      "credits": "7.5",
+      "title": "Computational Methods for Stochastic Differential Equations [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FSF3581?l=en",
+      "description": "Stochastic differential equations and their numerical solution, with applications in finance, turbulent diffusion, control and Monte Carlo methods: weak and strong approximation, error estimates, the link between SDEs and PDEs, stochastic optimal control, and variance reduction.",
+      "when": "Spring 2027",
+      "where": "KTH",
+      "contact": "Course responsible Mattias Sandberg."
+    },
+    {
+      "year": 2027,
+      "semester": "Spring",
+      "code": "FSF3810",
+      "credits": "7.5",
+      "title": "Convexity and Optimization in Linear Spaces [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FSF3810?l=en",
+      "description": "Optimization in infinite-dimensional vector spaces: minimum norm problems in Hilbert and Banach spaces, separating hyperplanes, Gateaux and Fréchet differentials, convex conjugates and Fenchel duality, Lagrange multipliers, and Kuhn-Tucker conditions in Banach spaces.",
+      "when": "Spring 2027",
+      "where": "KTH",
+      "contact": "Course responsible Johan Karlsson."
+    },
+    {
+      "year": 2027,
+      "semester": "Spring",
+      "code": "FSF3812",
+      "credits": "7.5",
+      "title": "Applied Linear Optimization [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FSF3812?l=en",
+      "description": "PhD-level version of SF2812 on linear and integer linear optimization: simplex and interior point methods, decomposition and column generation, stochastic programming, branch-and-bound, and Lagrangian relaxation, plus group projects modeling practical problems with optimization software.",
+      "when": "January - March 2027 (period 3, together with SF2812)",
+      "where": "KTH",
+      "contact": "Course responsible Jan Kronqvist."
+    },
+    {
+      "year": 2027,
+      "semester": "Spring",
+      "code": "FSF3822",
+      "credits": "7.5",
+      "title": "Applied Nonlinear Optimization [7.5 credits]",
+      "url": "https://www.kth.se/student/kurser/kurs/FSF3822?l=en",
+      "description": "Theory and methods for nonlinear optimization: optimality conditions, conjugate gradient and quasi-Newton methods, active-set methods for quadratic programming, sequential quadratic programming, and primal-dual interior methods, plus group projects modeling practical problems with optimization software.",
+      "when": "Spring 2027",
+      "where": "KTH",
+      "contact": "Course responsible Anders Forsgren."
     }
   ]
 }
