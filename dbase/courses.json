@@ -238,10 +238,11 @@
       "code": "",
       "credits": "7.0",
       "title": "Learning Theory and High-Dimensional Statistics [7 + 3 credits]",
-      "url": "https://doit.medfarm.uu.se/bin/kurt3/kurt/8910322",
-      "description": "Rigorous introduction to the mathematical foundations of learning algorithms, in two parts: the probabilistic tools for high dimensionality (concentration bounds, Rademacher complexity, VC dimension, metric entropy and chaining) and their application to learning theory (empirical risk minimization, regularized and sparse regression, kernel methods, and neural networks).",
+      "url": "https://aribeiro.se/learningtheory2027",
+      "description": "Rigorous introduction to the mathematical tools for analyzing learning algorithms, in two parts: high-dimensional probability and statistics (tail and concentration bounds, uniform laws of large numbers, metric entropy) and their application to learning theory (fixed- and random-design analysis, local averaging and sparse methods, kernel methods, and neural networks).",
       "when": "January - March 2027",
-      "where": "Uppsala University"
+      "where": "Uppsala University",
+      "contact": "Antonio Horta Ribeiro (antonio.horta.ribeiro@it.uu.se). Register <a href=\"https://doit.medfarm.uu.se/bin/kurt3/kurt/8910322\" target=\"_blank\">here</a>."
     },
     {
       "year": 2027,
