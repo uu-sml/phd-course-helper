@@ -52,6 +52,24 @@ anchor tag, not a raw pasted URL - the field is rendered as HTML, so write e.g.
 Register <a href=\"https://...\" target=\"_blank\">here</a> by <deadline>
 rather than pasting the bare url.
 
+the "contact" field must always follow this format, with the parts in this
+order and each part left out if there is no info for it:
+  {Name} ({email}). Register <a href=\"...\" target=\"_blank\">here</a> by {D Month YYYY}. {Short note.}
+- contacts: just the name(s), no role labels such as "Course responsible",
+  "Examiner" or "Contact". add the email in parentheses whenever it is known
+  (this is the standard going forward). if only an email is known, write just
+  the email. several people are written "A, B and C".
+- registration: "Register <a ...>here</a> by <deadline>." if there is a
+  separate registration link, "Register via the course link." if the "url"
+  itself is where you sign up, or "E-mail to register." if registration is by
+  e-mailing the contact. drop "by <deadline>" if there is no deadline.
+- note: only for other necessary info, kept to one short sentence.
+examples:
+  "Mikael Skoglund and Tobias Oechtering."
+  "Tom Britton (tom.britton@math.su.se)."
+  "Dave Zachariah. E-mail to register."
+  "Prashant Singh (prashant.singh@it.uu.se). Register <a href=\"https://...\" target=\"_blank\">here</a> by 15 October 2026."
+
 all three of "when", "where" and "contact" are optional - only include a field
 if you have the information for it. the site renders each present field on its
 own line with a bold label (Description:, When?, Where?, Sign-up / contact:).
