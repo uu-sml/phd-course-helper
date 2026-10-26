@@ -115,6 +115,17 @@
       "when": "April 5-9, 2027",
       "where": "Ecole Centrale de Lyon, Ecully, France (hybrid, with virtual attendance option)",
       "contact": "Register via the linked conference page."
+    },
+    {
+      "year": 2027,
+      "semester": "Summer",
+      "code": "BSS2027",
+      "title": "Boulder School 2027: Machine Learning and Condensed Matter",
+      "url": "https://www.colorado.edu/conference/bss/2027/boulder-school-2027",
+      "description": "Four-week school for advanced graduate students and postdocs on the interplay between machine learning and condensed matter physics, covering ML theory and methods, data-driven learning in classical and quantum systems, neural quantum states, and how statistical mechanics and field theory can shed light on learning itself.",
+      "when": "July 5-30, 2027",
+      "where": "University of Colorado Boulder, Colorado, USA",
+      "contact": "boulder.organizers@yale.edu. Apply <a href=\"https://cuboulder.qualtrics.com/jfe/form/SV_5amXkXulZ8sF3Xo\" target=\"_blank\">here</a> by 15 January 2027."
     }
   ]
 }
